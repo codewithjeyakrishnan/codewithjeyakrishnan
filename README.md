@@ -1,142 +1,191 @@
-# Hi there 👋, I'm Jeyakrishnan
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Jeyakrishnan**
 
-### 🚀 Python Backend Engineer | AI Engineer | FastAPI | Django | LangChain
+<h3 align="center">
+💻 Python Backend Engineer • 🤖 AI Engineer • 🚀 FastAPI • Django • LangChain
+</h3>
 
-I'm a **Python Backend Engineer** passionate about building secure, scalable backend systems and AI-powered applications. I enjoy solving real-world problems using Python, FastAPI, Django, REST APIs, and Large Language Models (LLMs). I focus on writing clean, maintainable code and designing high-performance backend architectures.
+<p align="center">
+Building scalable backend systems and AI-powered applications with clean architecture.
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/devjeyakrishnan/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/codewithjeyakrishnan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://jeyakrishnan-dev.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:jeyakrishnan172003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 💫 About Me
+# 🚀 About Me
 
-* 🔭 Currently working as a **Python Backend Engineer**
-* 🌱 Learning **Advanced Django, LangGraph, AI Agents & System Design**
-* 💡 Interested in **Backend Development, AI, RAG, LLMs, and Microservices**
-* 💬 Ask me about **Python, FastAPI, Django, REST APIs, PostgreSQL, AI, LangChain**
-* ⚡ I enjoy building production-ready backend applications and intelligent AI systems.
+<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🎯 Python Backend Engineer passionate about building **high-performance backend systems** and **AI-powered applications**.
+
+✨ I enjoy designing scalable APIs, secure authentication systems, and intelligent applications powered by LLMs.
+
+### Currently
+
+* 🔭 Working as a **Python Backend Engineer**
+* 🌱 Learning **Advanced Django**, **LangGraph**, **AI Agents**, and **System Design**
+* 💬 Ask me about **Python, FastAPI, Django, PostgreSQL, LangChain & RAG**
+* ⚡ Love writing clean, maintainable, production-ready code
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
+
+<table>
+
+<tr>
+<td valign="top">
 
 ### 💻 Languages
 
 * Python
 * SQL
 
-### ⚙️ Backend
+### ⚙ Backend
 
 * FastAPI
 * Django
 * Django REST Framework
 * Flask
+* SQLAlchemy
 * REST APIs
-* SQLAlchemy ORM
-* CRUD Operations
-* API Integration
 * Microservices
 
-### 🗄️ Databases
+</td>
+
+<td valign="top">
+
+### 🗄 Database
 
 * PostgreSQL
 * MySQL
 * SQLite
 
-### 🤖 AI / LLM
+### 🔐 Security
+
+* JWT Authentication
+* RBAC
+* Validation
+* Exception Handling
+
+</td>
+
+<td valign="top">
+
+### 🤖 AI
 
 * LangChain
 * LangGraph
-* OpenAI API
-* Ollama
-* Llama 3
 * RAG
-* Pinecone
 * FAISS
+* Pinecone
 * ChromaDB
-* Vector Database
+* Ollama
+* OpenAI
+* Llama 3
 * Embeddings
 * Semantic Search
-* NLP
-* TensorFlow
-* Pandas
-* NumPy
 
-### 🔒 Security
+</td>
 
-* JWT Authentication
-* Role-Based Access Control (RBAC)
-* Request Validation
-* Exception Handling
+</tr>
 
-### ⚡ DevOps & Tools
-
-* Docker
-* Git
-* GitHub
-* Postman
-* Thunder Client
-* VS Code
-* Redis
-* WebSockets
-
-> Tech stack based on my professional experience and skills.
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏢 Customer Relationship Management (CRM) System
+## 🏢 CRM System
 
-Enterprise CRM backend built using **Python, Django, REST APIs, SQLAlchemy ORM, PostgreSQL**, and secure JWT authentication.
+Enterprise Customer Relationship Management backend.
+
+### Tech
+
+`Python` `Django` `REST API` `PostgreSQL` `SQLAlchemy` `JWT`
 
 ### Features
 
 * Lead Management
 * Customer Management
+* Dashboard
 * Task Management
-* Dashboard APIs
-* JWT Authentication
-* Role-Based Access Control
-* WhatsApp API Integration
-* File Upload & Document Management
+* WhatsApp API
+* File Upload
 * Third-party API Integration
-* Pagination, Filtering & Search
+* Search & Pagination
 
 ### Impact
 
-* 🚀 Developed **30+ REST APIs**
-* ⚡ Improved backend response time by **40%**
-* 📱 Automated customer communication
-* 🔒 Secure authentication and authorization
+✔ 30+ REST APIs
+
+✔ 40% Faster API Response
+
+✔ Automated Customer Communication
+
+✔ Secure RBAC Authentication
 
 ---
 
 ## 🩺 Frontliner – AI Clinical Assistant
 
-Offline-first AI healthcare assistant built with **Python, FastAPI, LangGraph, FAISS, PostgreSQL, SQLite, and RAG**.
+Offline AI-powered healthcare assistant.
+
+### Tech
+
+`Python`
+
+`FastAPI`
+
+`LangGraph`
+
+`FAISS`
+
+`SQLite`
+
+`PostgreSQL`
+
+`RAG`
 
 ### Features
 
-* AI-powered Clinical Workflow
-* LangGraph State Machine
+* AI Clinical Workflow
 * Human-in-the-loop Approval
-* Retrieval Augmented Generation (RAG)
-* Offline Data Storage
-* Device-to-Cloud Sync
-* Secure JWT Authentication
-* FastAPI REST APIs
+* Offline Architecture
+* Secure Sync
+* REST APIs
 
 ### Impact
 
-* 🌍 100% Offline Clinical Workflow
-* 🤖 AI-assisted Medical Decision Support
-* 🔒 Privacy-focused Architecture
-* 🏥 Multi-facility Data Synchronization
+✔ Offline Healthcare Support
 
-Project details are summarized from my resume.
+✔ AI-assisted Diagnosis Workflow
+
+✔ Privacy-focused Design
+
+✔ Multi-facility Synchronization
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -146,37 +195,82 @@ Project details are summarized from my resume.
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=codewithjeyakrishnan&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithjeyakrishnan&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
-
-* 💼 LinkedIn
-* 💻 GitHub
-* 🌐 Portfolio
-* 📧 Email
-
----
-
-# 💡 Developer Quote
-
-> *"First, solve the problem. Then, write clean, scalable, and maintainable code."*
-
----
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to **Star ⭐** my repositories.
+<img src="https://github-profile-trophy.vercel.app/?username=codewithjeyakrishnan&theme=tokyonight&margin-w=15&margin-h=15&column=4"/>
 
 </p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithjeyakrishnan&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🧰 Tools I Use
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,sqlite,docker,git,github,vscode,postman,redis,tensorflow"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/devjeyakrishnan/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/codewithjeyakrishnan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://jeyakrishnan-dev.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:jeyakrishnan172003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Quote
+
+<p align="center">
+
+> **"Code with purpose. Build with passion. Scale with confidence."**
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+**If you like my work, don't forget to Star my repositories!**
+
+</h3>
