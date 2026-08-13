@@ -192,15 +192,6 @@ Building scalable backend systems and AI-powered applications with clean archite
 
 
 # 📊 GitHub Analytics
-
-<!-- <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithjeyakrishnan&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithjeyakrishnan&layout=compact&theme=tokyonight"/>
-
-</p> -->
-
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithjeyakrishnan&theme=tokyonight"/>
@@ -208,24 +199,6 @@ Building scalable backend systems and AI-powered applications with clean archite
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithjeyakrishnan&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithjeyakrishnan&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🧰 Tools I Use
 
 <p>
