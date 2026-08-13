@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Jeyakrishnan**
 
 <h3 align="center">
-💻 Python Backend Engineer • 🤖 AI Engineer • 🚀 FastAPI • Django • LangChain
+💻 Python Backend Developer • 🤖 AI • 🚀 FastAPI • Django • LangChain
 </h3>
 
 <p align="center">
@@ -40,10 +40,10 @@ Building scalable backend systems and AI-powered applications with clean archite
 
 ### Currently
 
-* 🔭 Working as a **Python Backend Engineer**
+* 🔭 Working as a **Python Backend Developer**
 * 🌱 Learning **Advanced Django**, **LangGraph**, **AI Agents**, and **System Design**
-* 💬 Ask me about **Python, FastAPI, Django, PostgreSQL, LangChain & RAG**
-* ⚡ Love writing clean, maintainable, production-ready code
+* 💬 Ask me about **Python, FastAPI, Django, PostgreSQL, langgraph & RAG**
+* ⚡ like writing clean, maintainable, production-ready code.
 
 ---
 
@@ -114,86 +114,92 @@ Building scalable backend systems and AI-powered applications with clean archite
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ## 🏢 CRM System
 
-Enterprise Customer Relationship Management backend.
+**Enterprise Customer Relationship Management Platform**
 
-### Tech
+**🛠 Tech Stack**
 
-`Python` `Django` `REST API` `PostgreSQL` `SQLAlchemy` `JWT`
+`Python` `Django` `Django REST Framework` `PostgreSQL` `SQLAlchemy` `JWT` `Docker`
 
-### Features
+### ✨ Key Features
 
-* Lead Management
-* Customer Management
-* Dashboard
-* Task Management
-* WhatsApp API
-* File Upload
-* Third-party API Integration
-* Search & Pagination
+* 🔐 JWT Authentication & Role-Based Access Control (RBAC)
+* 👥 Lead, Customer & Task Management
+* 📊 Dashboard & Analytics APIs
+* 📂 Secure File Upload & Document Management
+* 📱 WhatsApp API Integration
+* 🔗 Third-party API Integration
+* 🔍 Search, Filtering & Pagination
+* ⚡ Optimized PostgreSQL Queries
 
-### Impact
+### 📈 Impact
 
-✔ 30+ REST APIs
+* 🚀 Developed **30+ Production REST APIs**
+* ⚡ Improved API performance by **40%**
+* 📱 Automated customer communication workflows
+* 🔒 Built secure, scalable backend architecture
 
-✔ 40% Faster API Response
+</td>
 
-✔ Automated Customer Communication
+<td width="50%" valign="top">
 
-✔ Secure RBAC Authentication
+## 🩺 Frontliner AI
 
----
+**Offline AI Clinical Assistant for Rural Healthcare**
 
-## 🩺 Frontliner – AI Clinical Assistant
+**🛠 Tech Stack**
 
-Offline AI-powered healthcare assistant.
+`Python` `FastAPI` `LangGraph` `LangChain` `FAISS` `SQLite` `PostgreSQL` `RAG`
 
-### Tech
+### ✨ Key Features
 
-`Python`
+* 🤖 AI-powered Clinical Decision Support
+* 🧠 Retrieval-Augmented Generation (RAG)
+* 🌐 100% Offline-first Architecture
+* 🔄 Human-in-the-loop Approval Workflow
+* 📦 Secure Device-to-Cloud Synchronization
+* 🔐 JWT Authentication
+* ⚙️ LangGraph State Machine
+* 🏥 Multi-facility Data Synchronization
 
-`FastAPI`
+### 📈 Impact
 
-`LangGraph`
+* 🌍 Works completely offline
+* 🤖 AI-assisted clinical workflow
+* 🔒 Privacy-focused healthcare architecture
+* 📊 Scalable backend for rural healthcare
 
-`FAISS`
+</td>
 
-`SQLite`
-
-`PostgreSQL`
-
-`RAG`
-
-### Features
-
-* AI Clinical Workflow
-* Human-in-the-loop Approval
-* Offline Architecture
-* Secure Sync
-* REST APIs
-
-### Impact
-
-✔ Offline Healthcare Support
-
-✔ AI-assisted Diagnosis Workflow
-
-✔ Privacy-focused Design
-
-✔ Multi-facility Synchronization
+</tr>
+</table>
 
 ---
+
+### 💡 More Projects
+
+| Project                           | Description                                                 | Tech Stack            |
+| --------------------------------- | ----------------------------------------------------------- | --------------------- |
+| 🌦️ **Weather App**               | Weather forecasting application using external APIs         | Python, REST API      |
+| 🛍️ **Product Management System** | CRUD-based product inventory management                     | Python, Django        |
+| 👤 **Portfolio Website**          | Personal developer portfolio showcasing projects and skills | HTML, CSS, JavaScript |
+
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithjeyakrishnan&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithjeyakrishnan&layout=compact&theme=tokyonight"/>
 
-</p>
+</p> -->
 
 <p align="center">
 
@@ -204,11 +210,8 @@ Offline AI-powered healthcare assistant.
 ---
 
 # 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=codewithjeyakrishnan&theme=tokyonight&margin-w=15&margin-h=15&column=4"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithjeyakrishnan&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
