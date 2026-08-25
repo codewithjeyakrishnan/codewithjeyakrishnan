@@ -198,6 +198,34 @@ Building scalable backend systems and AI-powered applications with clean archite
 
 </p>
 
+<!-- ========================= -->
+<!-- GeeksforGeeks Live Stats -->
+<!-- ========================= -->
+
+<h2 align="center">🧠 GeeksforGeeks Profile</h2>
+
+<p align="center">
+  <b>Live Coding Statistics</b>
+  <br>
+  <a href="https://www.geeksforgeeks.org/profile/krishnanmk09">
+    View my GeeksforGeeks Profile →
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/krishnanmk09">
+    <img
+      src="https://gfg-stats.tashif.codes/krishnanmk09/stats/svg?theme=dark"
+      alt="Jeyakrishnan GeeksforGeeks Live Stats"
+      width="900"
+    />
+  </a>
+</p>
+
+<p align="center">
+  🔄 <b>Live statistics fetched from GeeksforGeeks</b>
+</p>
+
 ---
 # 🧰 Tools I Use
 
