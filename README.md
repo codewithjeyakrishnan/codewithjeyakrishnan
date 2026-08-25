@@ -26,6 +26,9 @@ Building scalable backend systems and AI-powered applications with clean archite
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://www.geeksforgeeks.org/profile/krishnanmk09?from=explore&tab=activity">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -255,6 +258,10 @@ Building scalable backend systems and AI-powered applications with clean archite
 
 <a href="mailto:jeyakrishnan172003@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/krishnanmk09?from=explore&tab=activity">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
