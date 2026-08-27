@@ -26,7 +26,7 @@ Building scalable backend systems and AI-powered applications with clean archite
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/krishnanmk09?from=explore&tab=activity">
+<a href="https://www.geeksforgeeks.org/profile/codewithjeyakrishnan?from=explore&tab=activity">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 </p>
@@ -210,15 +210,15 @@ Building scalable backend systems and AI-powered applications with clean archite
 <p align="center">
   <b>Live Coding Statistics</b>
   <br>
-  <a href="https://www.geeksforgeeks.org/profile/krishnanmk09">
+  <a href="https://www.geeksforgeeks.org/profile/codewithjeyakrishnan">
     View my GeeksforGeeks Profile →
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/krishnanmk09">
+  <a href="https://www.geeksforgeeks.org/profile/codewithjeyakrishnan?from=explore&tab=activity">
     <img
-      src="https://gfg-stats.tashif.codes/krishnanmk09/stats/svg?theme=dark"
+      src="https://gfg-stats.tashif.codes/codewithjeyakrishnan/stats/svg?theme=dark"
       alt="Jeyakrishnan GeeksforGeeks Live Stats"
       width="900"
     />
@@ -260,7 +260,7 @@ Building scalable backend systems and AI-powered applications with clean archite
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/krishnanmk09?from=explore&tab=activity">
+<a href="https://www.geeksforgeeks.org/profile/codewithjeyakrishnan?from=explore&tab=activity">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
