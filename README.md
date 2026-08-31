@@ -49,7 +49,15 @@ Building scalable backend systems and AI-powered applications with clean archite
 * ⚡ like writing clean, maintainable, production-ready code.
 
 ---
+# 🧰 Tools I Use
 
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,sqlite,docker,git,github,vscode,postman,redis,tensorflow"/>
+
+</p>
+
+---
 # 🛠 Tech Stack
 
 <table>
@@ -228,17 +236,6 @@ Building scalable backend systems and AI-powered applications with clean archite
 <p align="center">
   🔄 <b>Live statistics fetched from GeeksforGeeks</b>
 </p>
-
----
-# 🧰 Tools I Use
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,sqlite,docker,git,github,vscode,postman,redis,tensorflow"/>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
